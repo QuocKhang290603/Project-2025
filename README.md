@@ -1,13 +1,12 @@
-# Project-2025
+# Describe Project
 The first project in 2025
 
-**PROCESS PROJECT**
-```mermaid
-graph TD
-    A[idea] --> B[knowledge]
-    B --> C[prototype]
-    C --> D[data collection]
-    D --> E[RUN]
-    E --> F[performance]
-    F --> G[Final]
+#**Process Project**
+1. [idea]
+2. [knowledge]
+3. [data collection]
+4. [RUN]
+5. [performance]
+6. [prototype]
+7. [Final]
 
