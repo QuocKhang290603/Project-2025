@@ -4,4 +4,8 @@ openpyxl==3.1.5
 matplotlib==3.9.4
 seaborn==0.13.2
 statsmodels==0.14.4
+<<<<<<< HEAD
 vnstock=0.2.9.2.3
+=======
+vnstock3==3.1.0
+>>>>>>> 1795f508d9977187f2c91d0eee5844f1c4d91341
